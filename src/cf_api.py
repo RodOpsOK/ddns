@@ -1,5 +1,5 @@
 import CloudFlare
-from .records_filter import RecordsFilter
+from src.filters.records import RecordsFilter
 
 class CFConnect:
 

@@ -1,0 +1,6 @@
+# config
+domain: "domain.com"
+get_ip_from: "http://eth0.me" # http://ident.me
+
+# CloudFlare
+token: "token"
